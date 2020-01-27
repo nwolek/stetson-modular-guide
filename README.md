@@ -1,6 +1,8 @@
 # stetson-modular-guide
 A reference for using the modular synths available to DIGA 365-366 students at [Stetson University](https://www.stetson.edu/).
 
+![image of Stetson's Eurorack setup on ModularGrid.net](https://cdn.modulargrid.net/img/racks/modulargrid_1114611.jpg)
+
 ## Goals
 
 We want to record the following information for every module in our Eurorack setup.

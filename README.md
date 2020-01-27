@@ -3,7 +3,7 @@ A reference for using the modular synths available to DIGA 365-366 students at [
 
 ## Goals
 
-We want to record the following information for every module in our Eurorack setup. 
+We want to record the following information for every module in our Eurorack setup:
 
 - link to the manufacturer page
 - link to the manual

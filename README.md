@@ -30,3 +30,4 @@ We want to record the following information for every module in our Eurorack set
 ## Pittsburgh Verbtronic
 ## Pittsburgh Outs
 ## Expert Sleeper ES-8
+

@@ -4,8 +4,17 @@ A reference for using the modular synths available to DIGA 365-366 students at [
 ## Pittburgh Synthesizer Box
 ## MakeNoise Mysterion
 ## Intellijel Metropolis
-## Pittburgh Midi3
+## Pittsburgh Midi3
 ## Synth Rotek DS-M
 ## Tiptop Audio HATS808
+
 ## Tiptop Audio RS808
-## Pittburgh Mix Multi
+## Pittsburgh Mix Multi
+## WMD Mini Slew
+## Pittsburgh Toolbox
+## Pittsburgh FLTR
+## MakeNoise D Mix
+## Synth Rotek Echo
+## Pittsburgh Verbtronic
+## Pittsburgh Outs
+## Expert Sleeper ES-8

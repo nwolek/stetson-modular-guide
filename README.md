@@ -10,12 +10,52 @@ We want to record the following information for every module in our Eurorack set
 - link to the manufacturer page
 - link to the manual
 - identify the course meta-category (synthesis/sampling/processing/control)
+- provide a short sentence that describes the intended use
 - guidance about best default settings, text and/or photo
 
 # Top Row
 ## Pittburgh Synthesizer Box
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## MakeNoise Mysterion
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## Intellijel Metropolis
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## Pittsburgh Midi 3
 
 - [module page on manufacturer website](https://pittsburghmodular.com/midi3)
@@ -34,17 +74,173 @@ Control: Converts MIDI input into CV signals.
 5. Connect the MIX OUT on the Synthesizer Box to the Left or Right jack on the Pittsburgh Outs.
 
 ## Synth Rotek DS-M
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## Tiptop Audio HATS808
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## Tiptop Audio RS808
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 
 # Bottom Row
 ## Pittsburgh Mix Multi
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## WMD Mini Slew
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## Pittsburgh Toolbox
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## Pittsburgh FLTR
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## MakeNoise D Mix
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## Synth Rotek Echo
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## Pittsburgh Verbtronic
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## Pittsburgh Outs
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 ## Expert Sleeper ES-8
+
+- module page on manufacturer website
+- PDF manual
+
+### Description
+
+Category?: Short sentence.
+
+### Quick-start Steps
+
+1. first step
+2. then more steps
+
 

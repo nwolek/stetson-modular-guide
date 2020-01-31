@@ -231,12 +231,12 @@ Category?: Short sentence.
 
 ## Expert Sleeper ES-8
 
-- module page on manufacturer website
-- PDF manual
+- [module page on manufacturer website](https://www.expert-sleepers.co.uk/es8.html)
+- [PDF manual](https://www.expert-sleepers.co.uk/es8usermanual.html)
 
 ### Description
 
-Category?: Short sentence.
+Control & Processing: Allows you to pass audio and CV signals between your computer and the Eurorack setup.
 
 ### Quick-start Steps
 

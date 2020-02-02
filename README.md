@@ -198,17 +198,21 @@ Category?: Short sentence.
 
 ## Synth Rotek Echo
 
-- module page on manufacturer website
-- PDF manual
+[- module page on manufacturer website](https://store.synthrotek.com/ECHO_Voltage_Controlled_Echo)
+[- Schematic (no manual available)](https://www.synthrotek.com/products/modular-circuits/echo/echo-schematic/)
 
 ### Description
 
-Category?: Short sentence.
+Processing: This device takes the signal provided to it and repeats the signal a little later, AKA creats an echo.
 
 ### Quick-start Steps
 
-1. first step
-2. then more steps
+1. Patch a signal into the ECHO at the "IN" port.
+2. Patch the signal to an output outlet through the "OUT" port.
+3. Use RATE to control the number of echoes per second.
+4. Use FEEDBACK to control the rate of decay.  
+5. Use MIX to determine the gain/strength of the echoes.  
+  A. Note: MIX and FEEDBACK work closely together to adjust the potency of the echoes.
 
 ## Pittsburgh Verbtronic
 

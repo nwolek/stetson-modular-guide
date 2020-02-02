@@ -30,8 +30,8 @@ Category?: Short sentence.
 
 ## MakeNoise Mysterion
 
-[- module page on manufacturer website](http://www.makenoisemusic.com/modules/moddemix)
-[- PDF manual](http://www.makenoisemusic.com/content/manuals/modDemixMANUAL.pdf)
+- [module page on manufacturer website](http://www.makenoisemusic.com/modules/moddemix)
+- [PDF manual](http://www.makenoisemusic.com/content/manuals/modDemixMANUAL.pdf)
 
 ### Description
 
@@ -198,8 +198,8 @@ Category?: Short sentence.
 
 ## Synth Rotek Echo
 
-[- module page on manufacturer website](https://store.synthrotek.com/ECHO_Voltage_Controlled_Echo)
-[- Schematic (no manual available)](https://www.synthrotek.com/products/modular-circuits/echo/echo-schematic/)
+- [module page on manufacturer website](https://store.synthrotek.com/ECHO_Voltage_Controlled_Echo)
+- [Schematic (no manual available)](https://www.synthrotek.com/products/modular-circuits/echo/echo-schematic/)
 
 ### Description
 
@@ -216,17 +216,22 @@ Processing: This device takes the signal provided to it and repeats the signal a
 
 ## Pittsburgh Verbtronic
 
-- module page on manufacturer website
-- PDF manual
+- [module page on manufacturer website](https://pittsburghmodular.com/verbtronic)
+- [PDF manual: None available - product discontinued - HOWEVER: the website link has a list of controls at the bottom that act as a basic manual for understanding the unit.]
 
 ### Description
 
-Category?: Short sentence.
+Processing: this unit takes the signal provided and simulates the sound of soundwaves boucing off walls in a room, to create reverb.
 
 ### Quick-start Steps
 
-1. first step
-2. then more steps
+1. Send signal to the unit by patching into the IN port.
+2. Send signal out of the unit to monitors or another unit for processing via the OUT port.
+   A. Use VERB OUTPUT to send 100% wet signal.  Otherwise, use the standard OUT port for a mix of dry and wet signal.
+3. Use TONAL TILT to control the warmth and brightness of the sound.
+4. Use FEEDBACK to control the decay and density of the reverb.
+5. Use OUTPUT MIX to control the dry-wet ratio (i.e. the amount of reverb).
+   A. This step may be bypassed if the VERB OUTPUT is in use.  
 
 ## Pittsburgh Outs
 

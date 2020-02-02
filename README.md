@@ -142,12 +142,12 @@ Category?: Short sentence.
 
 ## WMD Mini Slew
 
-- module page on manufacturer website
-- PDF manual
+- [module page on manufacturer website](https://wmdevices.com/products/vc-mini-slew)
+- [PDF manual](https://cdn.shopify.com/s/files/1/0977/3366/files/MINISLEWmanual1.1.pdf?865751438778750222)
 
 ### Description
 
-Category?: Short sentence.
+Synthesis: MINI SLEW is a feature packed function generator and voltage controlled slew limiter.
 
 ### Quick-start Steps
 
@@ -156,12 +156,17 @@ Category?: Short sentence.
 
 ## Pittsburgh Toolbox
 
-- module page on manufacturer website
-- PDF manual
+- [module page on manufacturer website](https://pittsburghmodular.com/toolbox)
+- [PDF manual: Same link at manufacturer website.]
 
 ### Description
 
-Category?: Short sentence.
+Control: A versatile module capable of performing 4 distinct jobs at once.
+              - Adjustable Slew Control
+              - Noise Source
+              - Sample & Hold
+              - Voltage Inverter
+              - Module Sections
 
 ### Quick-start Steps
 

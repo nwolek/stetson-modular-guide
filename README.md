@@ -16,17 +16,17 @@ We want to record the following information for every module in our Eurorack set
 # Top Row
 ## Pittburgh Synthesizer Box
 
-- module page on manufacturer website
-- PDF manual
+- [module page on manufacturer website](https://pittsburghmodular.com/system-10-1)
+- [PDF manual](https://static1.squarespace.com/static/56aeb9254d088e3be58a3d47/t/56baaca6f699bbc5619646b4/1455074477589/System-10-1-manual.pdf)
 
 ### Description
 
-Category?: Short sentence.
+Synthesis: The Pittsburgh Synthesizer is a monophonic synth module. It can be controlled with by adjusting the knobs on it and does not require a patch cable to create sounds. However, using patch cables can offer more varieties of sounds and even more control over modulation and audio paths.
 
 ### Quick-start Steps
 
-1. first step
-2. then more steps
+1. Power the module on
+2. Adjust knobs at your discretion
 
 ## MakeNoise Mysterion
 
@@ -53,12 +53,12 @@ modDemix Panel Controls
 
 ## Intellijel Metropolis
 
-- module page on manufacturer website
-- PDF manual
+- [module page on manufacturer website](https://intellijel.com/shop/eurorack/metropolis/)
+- [PDF manual](https://intellijel.com/downloads/manuals/metropolis_manual_1.30_2018.09.13.pdf)
 
 ### Description
 
-Category?: Short sentence.
+Control: Sequencer that creates various melodies/patterns based on set parameters including repeats, skips, and slides.
 
 ### Quick-start Steps
 
@@ -93,8 +93,7 @@ Category?: Short sentence.
 
 ### Quick-start Steps
 
-1. first step
-2. then more steps
+1. Set all pitch sliders to bottom position
 
 ## Tiptop Audio HATS808
 

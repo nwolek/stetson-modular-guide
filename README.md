@@ -84,16 +84,17 @@ Control: Converts MIDI input into CV signals.
 
 ## Synth Rotek DS-M
 
-- module page on manufacturer website
-- PDF manual
+- [module page on manufacturer website](https://www.synthrotek.com/products/modular-circuits/ds-m-drum-synth-module/)
+- [PDF manual](https://synthrotek.com/Manuals/DS-M_Quick-Start-Guide.pdf)
 
 ### Description
 
-Category?: Short sentence.
+Generator: Has the ability to synthesize virtually any drum sound imaginable.
 
 ### Quick-start Steps
 
-1. Set all pitch sliders to bottom position
+1. Plug your CV controller and gate directly out of your MIDI-to-CV converter. If this isn't an option, connect your Q Nexus
+   keyboard, Arturia keyboard, or sequencer.
 
 ## Tiptop Audio HATS808
 
@@ -156,7 +157,7 @@ Synthesis: MINI SLEW is a feature packed function generator and voltage controll
 ## Pittsburgh Toolbox
 
 - [module page on manufacturer website](https://pittsburghmodular.com/toolbox)
-- [PDF manual: Same link at manufacturer website.]
+- PDF manual: Same link at manufacturer website
 
 ### Description
 
@@ -174,12 +175,12 @@ Control: A versatile module capable of performing 4 distinct jobs at once.
 
 ## Pittsburgh FLTR
 
-- module page on manufacturer website
-- PDF manual
+- [module page on manufacturer website](https://pittsburghmodular.com/fltr)
+- PDF manual: Same link at manufacturer website
 
 ### Description
 
-Category?: Short sentence.
+Processing: An EQ unit capable of applying multiple filters at once.
 
 ### Quick-start Steps
 

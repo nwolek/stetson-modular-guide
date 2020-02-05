@@ -40,16 +40,16 @@ Synthesis: This is a music synthesizer module which features 2 identical direct-
 ### Quick-start Steps
 
 modDemix Panel Controls 
-1. Signal 1 IN: signal to be processed. 
-2. Carrier/ CV 1 IN: determines amplitude & phase of Signal 1 IN. 
-3. Channel 1 LEDs: LED indication of signal activity in four quadrants. Vertical position represents amplitude and phase of input signal; horizontal position represents amplitude and phaseof carrier/CV input signal. 
-4. Carrier/ CV 1 Strength: attenuator for Carrier/ CV IN: Normalized to +5V so that with nothing patched the associated attenuator operates as a unipolar manual control for the parameter. Range 0V-5V. 
-5. Signal 1 OUT. 
-6. AUXiliary INput to Summing stage: An AUXiliary IN allows for the chaining of multiple modDemix (or Optomix) units to create larger mixes. 
-7. Signal 2 IN: signal to be processed. Normalled to Signal 1 OUT. 
-8. Carrier/ CV 2 IN: determines amplitude & phase of Signal 2 IN. 
-9. Channel 2 LEDs. LED indication of signal activity in four quadrants. Vertical position represents amplitude and phase of input signal; horizontal position represents amplitude and phase of carrier/CV input signal. 
-10. Carrier/ CV 2 Strength: attenuator for Carrier/ CV IN. Normalized to +5V so that with nothing patched, the associated attenuator operates as a unipolar manual control for the parameter. Range 0V-5V.11. Signal 2 OUT. 12. SUM OUT: mix of Signal 1 OUT, Signal 2 OUT & AUX. IN.
+1. Signal 1 IN: signal to be processed
+2. Carrier/ CV 1 IN: determines amplitude & phase of Signal 1 IN
+3. Channel 1 LEDs: LED indication of signal activity in four quadrants. Vertical position represents amplitude and phase of input signal; horizontal position represents amplitude and phaseof carrier/CV input signal 
+4. Carrier/ CV 1 Strength: attenuator for Carrier/ CV IN: Normalized to +5V so that with nothing patched the associated attenuator operates as a unipolar manual control for the parameter. Range 0V-5V
+5. Signal 1 OUT
+6. AUXiliary INput to Summing stage: An AUXiliary IN allows for the chaining of multiple modDemix (or Optomix) units to create larger mixes
+7. Signal 2 IN: signal to be processed. Normalled to Signal 1 OUT
+8. Carrier/ CV 2 IN: determines amplitude & phase of Signal 2 IN
+9. Channel 2 LEDs. LED indication of signal activity in four quadrants. Vertical position represents amplitude and phase of input signal; horizontal position represents amplitude and phase of carrier/CV input signal
+10. Carrier/ CV 2 Strength: attenuator for Carrier/ CV IN. Normalized to +5V so that with nothing patched, the associated attenuator operates as a unipolar manual control for the parameter. Range 0V-5V.11. Signal 2 OUT. 12. SUM OUT: mix of Signal 1 OUT, Signal 2 OUT & AUX. IN
 
 ## Intellijel Metropolis
 
@@ -76,11 +76,11 @@ Control: Converts MIDI input into CV signals.
 
 ### Quick-start Steps
 
-1. Press and hold the MODE button for 4 seconds until the red lights flash.
-2. Press the MODE button again (this time without holding) a few times until the yellow MONO light is on.
-3. Connect the MIDI OUT from your keyboard to the MIDI IN jack at the bottom of the panel using a standard MIDI cable. Also make sure your keyboard is powered on. 
-4. Connect the CV jack in the upper right corner of the Pittsburgh Midi 3 to the 1V/O IN jack on the Pittsburgh Synthesizer Box.
-5. Connect the MIX OUT on the Synthesizer Box to the Left or Right jack on the Pittsburgh Outs.
+1. Press and hold the MODE button for 4 seconds until the red lights flash
+2. Press the MODE button again (this time without holding) a few times until the yellow MONO light is on
+3. Connect the MIDI OUT from your keyboard to the MIDI IN jack at the bottom of the panel using a standard MIDI cable. Also make sure your keyboard is powered on
+4. Connect the CV jack in the upper right corner of the Pittsburgh Midi 3 to the 1V/O IN jack on the Pittsburgh Synthesizer Box
+5. Connect the MIX OUT on the Synthesizer Box to the Left or Right jack on the Pittsburgh Outs
 
 ## Synth Rotek DS-M
 
@@ -89,12 +89,14 @@ Control: Converts MIDI input into CV signals.
 
 ### Description
 
-Generator: Has the ability to synthesize virtually any drum sound imaginable.
+Synthesis: Synthesize drum sounds using FM synthesis.
 
 ### Quick-start Steps
 
 1. Plug your CV controller and gate directly out of your MIDI-to-CV converter. If this isn't an option, connect your Q Nexus
-   keyboard, Arturia keyboard, or sequencer.
+   keyboard, Arturia keyboard, or sequencer
+2. Turn all knobs counter-clockwise to their default position
+3. Sound will be coming through the output. Connec this to an input (playback or control module)
 
 ## Tiptop Audio HATS808
 

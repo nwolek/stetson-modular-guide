@@ -109,8 +109,10 @@ Category?: Short sentence.
 
 ### Quick-start Steps
 
-1. first step
-2. then more steps
+1. Set tempo you want on the metropolis unit
+2. Patch from metropolis gate into the gate on the tip top hats.
+3. patch from oh out/ch out to either the mix multi or hte outs
+4. if patched to mix multi, patch from mix out to the outs
 
 ## Tiptop Audio RS808
 

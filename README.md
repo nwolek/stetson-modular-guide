@@ -267,7 +267,12 @@ Control & Processing: Allows you to pass audio and CV signals between your compu
 
 ### Quick-start Steps
 
-1. first step
-2. then more steps
+1. Connect computer to Expert Sleepers ES-8 using USB cable.
+2. Launch Ableton Live. In **Preferences... > Audio**, select the ES-8 as your *Audio Input Device* and *Audio Output Device*. In addition, you may need to click through to the *Input Config* and *Output Config* to enable the additional channels.
+3. To record audio from the Eurorack, connect the desired signal to the one of the *four 1/8 inch inputs* in the left column. If a signal is present, the input jack should begin changing color.
+4. On the audio track where you want audio to be recorded, set the **Audio From** drop down menu to *Ext. In* and the drop down menu below it to the same number as your input jack from the previous step.
+5. Record enable your audio track, then the session. Press record to the slot where you want audio to be recorded.
+6. To send audio out from Ableton Live, connect the destination to one of the *eight 1/8 inch output* in the right column.
+7. On the audio track where you want audio to send out, set the **Audio To** drop down menu to *Ext. Out* and the drop down menu below it to the same number as your output jack from the previous step. If a signal being sent to the ES-8, the output jack should begin changing color.
 
 

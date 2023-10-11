@@ -100,8 +100,8 @@ Synthesis: Synthesize drum sounds using FM synthesis.
 
 ## Tiptop Audio HATS808
 
-- module page on manufacturer website
-- PDF manual
+- [module page on manufacturer website](https://tiptopaudio.com/808-2/)
+- [PDF manual](https://www.tiptopaudio.com/manuals/Tiptop_Audio_HATS808_ns.pdf)
 
 ### Description
 
@@ -116,8 +116,8 @@ Category?: Short sentence.
 
 ## Tiptop Audio RS808
 
-- module page on manufacturer website
-- PDF manual
+- [module page on manufacturer website](https://tiptopaudio.com/808-2/)
+- [PDF manual](https://www.tiptopaudio.com/manuals/Tiptop_Audio_RS808_ns.pdf)
 
 ### Description
 
